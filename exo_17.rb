@@ -3,6 +3,8 @@ print ">"
 floor = gets.chomp.to_i
 
 upto(floor) do |i|
-    spaces = " " * (floor - i) 
-    dieses = "#" (1*2 - 1)
+    spaces = " " * (floor - i) #espaces permettant de centrer
+    dieses = "#" (1*2 - 1) #-> nombres impaires
 puts spaces + dieses + spaced
+
+    #Ancien code reprenant les autres modèles : problème = commence à 3 dieses 
