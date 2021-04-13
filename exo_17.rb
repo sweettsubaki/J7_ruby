@@ -7,4 +7,26 @@ upto(floor) do |i|
     dieses = "#" (1*2 - 1) #-> nombres impaires
 puts spaces + dieses + spaced
 
-    #Ancien code reprenant les autres modèles : problème = commence à 3 dieses 
+
+
+
+
+
+
+    #Ancien code reprenant les autres modèles : problème = commence à 3 diese
+
+
+
+#compt = 1
+
+#dieses = "#"
+
+
+
+#floor.times do
+
+    #dieses += '##'
+
+   # puts dieses.center(floor + 3)
+
+#end
